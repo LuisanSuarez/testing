@@ -14,3 +14,6 @@ longestString(strings1)
 
 console.log(strings1[1].length );
 console.log(strings1[3].length);
+
+stringy = "Now I've made some changes!"
+console.log(stringy);
